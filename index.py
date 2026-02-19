@@ -14,7 +14,7 @@ class Company:
         deduction = per_day_salary * leave_days
         overtime_pay = per_day_salary * overtime_days
         
-        
+        final_salary = total_salary - deduction + bonus + overtime_pay
 
         print("\n===== Salary Details =====")
         print("Name:", name)
@@ -27,4 +27,5 @@ class Company:
 
 emp = Company()
 emp.salary()
+
 
