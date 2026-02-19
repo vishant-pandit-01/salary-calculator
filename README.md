@@ -17,18 +17,8 @@ A simple Python program to calculate an employee's final salary based on:
 ✔️ Final salary display  
 ✔️ Clean and simple OOP structure  
 
----
-
-## 🛠️ Technologies Used
-
-- Python 3
-- Object Oriented Programming (OOP)
-
----
-
 ## 📂 Project Structure
 
 Employee-Salary-Management-System
 │
 └── salary.py
-
