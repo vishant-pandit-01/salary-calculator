@@ -1,4 +1,3 @@
-
 class Company:
     
     def salary(self):
@@ -26,6 +25,6 @@ class Company:
         print("Overtime Pay:", round(overtime_pay, 2))
         print("Final Salary:", round(final_salary, 2))
 
-
 emp = Company()
 emp.salary()
+
