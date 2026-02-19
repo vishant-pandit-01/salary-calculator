@@ -32,11 +32,3 @@ Employee-Salary-Management-System
 │
 └── salary.py
 
----
-
-## ▶️ How to Run
-
-1. Install Python (if not installed)
-2. Clone the repository
-
-
